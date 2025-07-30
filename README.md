@@ -30,5 +30,37 @@ Actualmente estoy en transición de carrera hacia el mundo de **(QA)**, combinan
 ¡Gracias por pasar por aquí!
 
 
+# Hi! I'm Edna Rios 👩🏻‍💻
+
+I'm currently transitioning into the world of **(QA)**, combining my previous professional experience with a strong passion for organization, precision, and attention to detail.
+
+✨ I'm passionate about everything related to **quality, functional testing, and continuous improvement**. I enjoy spotting patterns, finding bugs, and making sure everything works as it should… or even better.
+
+### 😎 About me:
+•⁠  ⁠Obsessed with **organization and quality**
+•⁠  ⁠Focused on growing as a **QA Manual Tester**
+•⁠  ⁠I love documenting, creating checklists, and understanding how things flow
+•⁠  ⁠Exploring tools like **Postman, Android Studio, Jira and PyCharm**
+
+### 🌱 Currently practicing:
+•⁠  ⁠Manual testing on mobile apps
+•⁠  ⁠Creating test cases, bug reporting, and exploratory testing
+•⁠  ⁠Learning basic automation (in progress 🚧)
+
+### 🔍 Looking to collaborate on:
+•⁠  ⁠Projects where I can contribute from a quality perspective
+•⁠  ⁠Teams that value continuous learning and clear communication
+
+### ✨ This GitHub is my space to:
+•⁠  ⁠Share practice projects
+•⁠  ⁠Document my journey into QA
+•⁠  ⁠Connect with others who enjoy improving processes as much as I do
+
+---
+
+📬 You can also find me on www.linkedin.com/in/ednaelisariosacevedo 
+
+Thanks for stopping by!
+
 
 
