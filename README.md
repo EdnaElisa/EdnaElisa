@@ -9,6 +9,7 @@ Actualmente estoy en transición de carrera hacia el mundo de **(QA)**, combinan
 - Enfocada en crecer como **QA Manual Tester**
 - Me encanta documentar, hacer checklists y entender cómo fluyen las cosas
 - Explorando herramientas como **Postman, Android Studio, Jira, PyCharm**
+- https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 
 ### 🌱 Actualmente practicando:
 - Pruebas manuales en apps móviles
